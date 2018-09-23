@@ -32,6 +32,14 @@ export REACT_APP_WEATHER_SECRET_KEY="XXX";
 export REACT_APP_WEATHER_ACCESS_ID="XXX";
 
 ```
+## Deploy
+Git clone the project <br>
+`npm install` or `npm i` to install the things needed to run the app <br>
 
-Start app with `yarn start`</br>
+Start app with `yarn start` or `npm start`</br>
+I recommend `yarn start` <br> 
 
+### installing yarn
+
+If you have homebrew, type in your terminal  `brew install yarn`<br>
+Anything else please look at yarn's [documentation](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
