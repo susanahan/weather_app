@@ -1,7 +1,7 @@
 # Simple Weather App
 A simple weather app that displays the weather's forecasts for New York.
 
-*🌡️ ☁️ 🌈 ☀️ ⛅
+🌡️ ☁️ 🌈 ☀️ ⛅
 
 ## The API
 To run the app, you need to sign up for a (free) account to access this API. Sign up for an account, click on _Apps_, then _New Application_, and create a new app. You will then be given a client ID and a client secret, which you can include in the URL below.
@@ -18,10 +18,10 @@ If you have trouble signing up or registering an app, you can use [this](http://
 ## Features 
 
 * Weekly forecast from the week depending on when the user runs the project
-* Celsius to Fahrenheit option  
+* Fahrenheit to Celsius option  
 * Forecasted low and high temperatures for each day in the forecast
 
-## SECRETS
+## *SECRETS
 In order to properly run this app, you need to create a `.env` file in the root directory. 
 
 Your `.env` file should look something like this:
