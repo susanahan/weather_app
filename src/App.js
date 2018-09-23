@@ -39,7 +39,7 @@ class App extends Component {
     this.handleToggle();
   }
 
-
+  
   render() {
     const {info, toggle} = this.state;
     const textDisplay =  toggle ? 'Show Celsius' : 'Show Fahrenheit'
