@@ -1,5 +1,6 @@
 # Simple Weather App
-A simple weather app that displays the weather's forecasts for New York.
+A simple weather app that displays the weather's forecasts for New York. <br>
+I used React, Moment.js and axios. 
 
 🌡️ ☁️ 🌈 ☀️ ⛅
 
